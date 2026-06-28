@@ -2,6 +2,8 @@
 
 Bot de calificación y agendamiento automático para canales de Instagram y WhatsApp, integrado con GoHighLevel y Claude AI.
 
+> 🚀 **¿Primeras veces?** Sigue la [**guía de setup completa**](./SETUP.md) — tiene instrucciones paso a paso para tener el bot en producción en 1 hora.
+
 ---
 
 ## Variables de entorno
